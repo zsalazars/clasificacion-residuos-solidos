@@ -1,0 +1,30 @@
+2024-08-14 20:38:32,297 - root - INFO - 2024-08-14 20:38:32 - Recognized: Alesso with similarity 0.42
+2024-08-14 20:40:17,412 - root - INFO - 2024-08-14 20:40:17 - Recognized: joel with similarity 0.52
+2024-08-14 20:42:35,326 - root - INFO - 2024-08-14 20:42:35 - Recognized: Alesso with similarity 0.60
+2024-08-14 20:43:47,575 - root - INFO - 2024-08-14 20:43:47 - Recognized: joel with similarity 0.51
+2024-08-14 20:44:08,136 - root - INFO - 2024-08-14 20:44:08 - Recognized: Alesso with similarity 0.47
+2024-08-14 20:47:44,920 - root - INFO - 2024-08-14 20:47:44 - Recognized: Alesso with similarity 0.71
+2024-08-14 20:51:51,452 - root - INFO - 2024-08-14 20:51:51 - Recognized: Alesso with similarity 0.40
+2024-08-14 20:52:14,357 - root - INFO - 2024-08-14 20:52:14 - Recognized: Alesso with similarity 0.60
+2024-08-14 21:18:20 - Recognized: Alesso with similarity 0.70
+2024-08-14 21:19:08 - Recognized: Alesso with similarity 0.69
+2024-08-14 21:21:43 - Recognized: Alesso with similarity 0.58
+2024-08-14 21:21:59 - Recognized: Joel with similarity 0.41
+2024-08-14 21:24:23,772 - root - INFO - 2024-08-14 21:24:23 - Recognized: Alesso with similarity 0.69
+2024-08-14 21:24:39,900 - root - INFO - 2024-08-14 21:24:39 - Recognized: Joel with similarity 0.49
+2024-08-14 21:26:36,639 - root - INFO - 2024-08-14 21:26:36 - Recognized: Alesso with similarity 0.84
+2024-08-14 21:28:36,955 - root - INFO - 2024-08-14 21:28:36 - Recognized: Alesso with similarity 0.83
+2024-08-14 21:29:21,444 - root - INFO - 2024-08-14 21:29:21 - Recognized: Alesso with similarity 0.88
+2024-08-14 21:30:47,538 - root - INFO - 2024-08-14 21:30:47 - Recognized: Alesso with similarity 0.90
+2024-08-14 21:32:20,518 - root - INFO - 2024-08-14 21:32:20 - Recognized: Alesso with similarity 0.90
+2024-08-14 21:35:54,241 - root - INFO - 2024-08-14 21:35:54 - Recognized: Alesso with similarity 0.91
+2024-08-14 21:36:45,776 - root - INFO - 2024-08-14 21:36:45 - Recognized: Alesso with similarity 0.92
+2024-08-14 21:37:13,337 - root - INFO - 2024-08-14 21:37:13 - Recognized: Joel with similarity 0.56
+2024-08-14 21:41:15,529 - root - INFO - 2024-08-14 21:41:15 - Recognized: Alesso with similarity 0.83
+2024-08-14 21:45:00,134 - root - INFO - 2024-08-14 21:45:00 - Recognized: Alesso with similarity 0.91
+2024-08-14 21:47:39,750 - root - INFO - 2024-08-14 21:47:39 - Recognized: Alesso with similarity 0.74
+2024-08-15 13:22:38,172 - root - INFO - 2024-08-15 13:22:38 - Recognized: Alesso with similarity 0.54
+2024-08-15 13:23:59,039 - root - INFO - 2024-08-15 13:23:59 - Recognized: Alesso with similarity 0.73
+2024-08-15 13:24:16,552 - root - INFO - 2024-08-15 13:24:16 - Recognized: Alesso with similarity 0.71
+2024-08-15 13:24:36,740 - root - INFO - 2024-08-15 13:24:36 - Recognized: Alesso with similarity 0.74
+2024-08-15 13:29:38,218 - root - INFO - 2024-08-15 13:29:38 - Recognized: Alesso with similarity 0.69

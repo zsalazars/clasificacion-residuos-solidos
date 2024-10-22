@@ -1,0 +1,35 @@
+# Ignorar el entorno virtual
+.venv/
+
+# Ignorar archivos de configuración de IDEs
+*.idea/
+*.vscode/
+
+# Ignorar archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de paquetes de distribución
+*.egg-info/
+dist/
+build/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar archivos de configuración de herramientas de Python
+*.DS_Store
+*.env
+*.env.local
+*.env.*.local
+
+# Ignorar archivos de herramientas de gestión de dependencias
+Pipfile.lock
+
+# Ignorar archivos grandes de weights
+weights/
+model_res.h5
+xception_weights_tf_dim_ordering_tf_kernels_notop.h5
